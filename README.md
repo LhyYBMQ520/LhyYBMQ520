@@ -27,7 +27,6 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://aliceserver.lcatnya.top/api?username=LhyYBMQ520&show_icons=true&hide_border=true&theme=dracula&locale=cn)
-![Top Langs](https://aliceserver.lcatnya.top/api/top-langs/?username=LhyYBMQ520&hide_border=true&theme=dracula&locale=cn)
 
 ---
 
