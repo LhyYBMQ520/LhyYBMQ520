@@ -15,9 +15,9 @@
 
 - 🔭 **我目前正在致力于** ：**[多编程语言小玩具](https://github.com/LhyYBMQ520/A-small-toy)** ，**[网页即时聊天](https://github.com/LhyYBMQ520/Simple-web-chat)** ，**[我的个人主页（新）](https://github.com/LhyYBMQ520/Web-backup)** 等等。。。
 
-![A-small-toy](https://aliceserver.lcatnya.top/api/pin?username=LhyYBMQ520&repo=A-small-toy&layout=compact&hide_border=true&theme=default&locale=cn)
-![Simple-web-chat](https://aliceserver.lcatnya.top/api/pin?username=LhyYBMQ520&repo=Simple-web-chat&layout=compact&hide_border=true&theme=default&locale=cn)
-![Web-backup](https://aliceserver.lcatnya.top/api/pin?username=LhyYBMQ520&repo=Web-backup&layout=compact&hide_border=true&theme=default&locale=cn)
+![A-small-toy](https://github-stats-extended.vercel.app/api/pin?username=LhyYBMQ520&repo=A-small-toy&layout=compact&hide_border=true&theme_light=light&theme_dark=dracula&locale=cn)
+![Simple-web-chat](https://github-stats-extended.vercel.app/api/pin?username=LhyYBMQ520&repo=Simple-web-chat&layout=compact&hide_border=true&theme_light=light&theme_dark=dracula&locale=cn)
+![Web-backup](https://github-stats-extended.vercel.app/api/pin?username=LhyYBMQ520&repo=Web-backup&layout=compact&hide_border=true&theme_light=light&theme_dark=dracula&locale=cn)
 
 - 🌱 **我正在学习并提升** ：**C#** ，**Javascripts** ，**Python** ，and **AI/LLM**
 - 🤔 **我需要帮助的领域** ：**Go** ，**Java/Kotlin**
@@ -26,8 +26,8 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://aliceserver.lcatnya.top/api?username=LhyYBMQ520&show_icons=true&hide_border=true&theme=dracula&locale=cn)
-![Top Langs](https://aliceserver.lcatnya.top/api/top-langs/?username=LhyYBMQ520&hide_border=true&theme=dracula&locale=cn)
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=LhyYBMQ520&show_icons=true&hide_border=true&theme_light=light&theme_dark=dracula&locale=cn)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LhyYBMQ520&hide_border=true&theme_light=light&theme_dark=dracula&locale=cn)
 
 ---
 
